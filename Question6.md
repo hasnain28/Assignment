@@ -1,1 +1,1 @@
-**docker run -d -it --name volume -p 8082:80 -v /home/hasnain/Documents/Persist/httpd:/usr/local/apache2/htdocs/httpd:2.4**
+**docker run -d -it --name volume -p 8082:80 -v /home/hasnain/Documents/Persist/httpd:/var/log/nginx nginx**
