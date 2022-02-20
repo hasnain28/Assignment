@@ -1,0 +1,1 @@
+**docker container run --rm -d --name assignment-2 --network assignment-2 -p 9090:80 nginx**
